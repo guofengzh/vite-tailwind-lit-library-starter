@@ -22,3 +22,5 @@ For the following statement:
 import tailwindcss from '@tailwindcss/vite'
 ```
 VS Code emit `Cannot find module '@tailwindcss/vite' or its corresponding type declarations`.
+
+`@tailwindcss/vite` has only `d.mts` file defined, no `d.ts` file defined.
