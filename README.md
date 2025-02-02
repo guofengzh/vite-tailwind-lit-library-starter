@@ -14,10 +14,10 @@ if the settings in tsconfig.json has:
 ```
 VS Code emit compilation errors for Lit components.
 
-2. d.mts file
+2. `d.mts` file
 
 
-For the following statement:
+For the statement in `vite.config.ts`:
 ```
 import tailwindcss from '@tailwindcss/vite'
 ```
